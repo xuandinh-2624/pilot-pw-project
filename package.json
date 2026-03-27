@@ -1,0 +1,23 @@
+{
+  "name": "pilot-pw-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuandinh-2624/pilot-pw-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xuandinh-2624/pilot-pw-project/issues"
+  },
+  "homepage": "https://github.com/xuandinh-2624/pilot-pw-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
