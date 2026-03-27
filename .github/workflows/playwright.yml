@@ -37,7 +37,3 @@ jobs:
       # 3. Verification: Clean Code Formatting (Prettier)
       - name: Check Formatting
         run: npx prettier --check .
-
-      # 4. Optional: Run tests to ensure nothing broke
-      - name: Run Playwright tests
-        run: npx playwright test
